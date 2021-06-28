@@ -1,6 +1,6 @@
 Kmer: ttatCount: 0
-Kmer: aaaaCount: -
 Kmer: ataaCount: -
+Kmer: aaaaCount: -
 Kmer: aataCount: '
 Kmer: atatCount: &
 Kmer: ttaaCount: %
@@ -19,235 +19,235 @@ Kmer: agaaCount: 
 Kmer: cttaCount: 
 Kmer: caaaCount: 
 Kmer: tatgCount: 
-Kmer: cattCount: 
-Kmer: aagaCount: 
 Kmer: taagCount: 
+Kmer: aagaCount: 
+Kmer: cattCount: 
 Kmer: agttCount: 
 Kmer: acatCount: 
 Kmer: gtttCount: 
 Kmer: ttctCount: 
-Kmer: tcatCount: 
-Kmer: atcaCount: 
 Kmer: tttgCount: 
 Kmer: tgaaCount: 
-Kmer: gaatCount: 
+Kmer: atcaCount: 
+Kmer: tcatCount: 
 Kmer: actaCount: 
 Kmer: atacCount: 
+Kmer: gaatCount: 
 Kmer: tacaCount: 
-Kmer: aaagCount: 
-Kmer: atgtCount: 
 Kmer: agatCount: 
+Kmer: aaagCount: 
 Kmer: atagCount: 
+Kmer: atgtCount: 
+Kmer: tgtaCount: 
 Kmer: aaacCount: 
 Kmer: atgaCount: 
 Kmer: gataCount: 
 Kmer: aatcCount: 
-Kmer: tgtaCount: 
-Kmer: ctaaCount: 
-Kmer: acaaCount: 
-Kmer: tcaaCount: 
-Kmer: caatCount: 
 Kmer: aactCount: 
+Kmer: acaaCount: 
+Kmer: caatCount: 
+Kmer: ctaaCount: 
 Kmer: ttagCount: 
-Kmer: cataCount: 
+Kmer: tcaaCount: 
 Kmer: ctatCount: 
-Kmer: tagaCount: 
-Kmer: tcttCount: 
+Kmer: cataCount: 
 Kmer: agtaCount: 
+Kmer: tagaCount: 
 Kmer: ttgtCount: 
-Kmer: attgCount: 
-Kmer: taacCount: 
-Kmer: ttgaCount: 
+Kmer: tcttCount: 
+Kmer: tactCount: 
+Kmer: gaaaCount: 
+Kmer: gttaCount: 
 Kmer: attcCount: 
 Kmer: agtgCount: 
-Kmer: acttCount: 
-Kmer: gattCount: 
 Kmer: gactCount: 
-Kmer: gaaaCount: 
+Kmer: acttCount: 
+Kmer: ttgaCount: 
+Kmer: gattCount: 
 Kmer: aatgCount: 
-Kmer: tactCount: 
-Kmer: gttaCount: 
-Kmer: gtatCount: 
-Kmer: tgttCount: 
-Kmer: ctgtCount: 
+Kmer: taacCount: 
+Kmer: attgCount: 
 Kmer: catcCount: 
-Kmer: tatcCount: 
-Kmer: gttcCount: 
+Kmer: ctgtCount: 
+Kmer: tgttCount: 
+Kmer: gtatCount: 
 Kmer: tgatCount: 
-Kmer: atctCount: 
-Kmer: aggaCount: 
-Kmer: ctttCount: 
-Kmer: tagtCount: 
-Kmer: acacCount: 
-Kmer: aacaCount: 
 Kmer: tctaCount: 
+Kmer: acacCount: 
+Kmer: gttcCount: 
+Kmer: aacaCount: 
+Kmer: ctttCount: 
+Kmer: aggaCount: 
+Kmer: tatcCount: 
+Kmer: atctCount: 
+Kmer: tagtCount: 
 Kmer: ttacCount: 
-Kmer: gaacCount: 
-Kmer: gttgCount: 
-Kmer: ttcaCount: 
 Kmer: gtaaCount: 
+Kmer: gaacCount: 
+Kmer: ttcaCount: 
 Kmer: agctCount: 
+Kmer: gttgCount: 
 Kmer: agcaCount: 
-Kmer: gtgaCount: 
-
 Kmer: ccttCount: 
 
 Kmer: aagtCount: 
 
-Kmer: aacgCount: 
-
 Kmer: cgaaCount: 
+
+Kmer: gtgaCount: 
 
 Kmer: ctagCount: 
 
-Kmer: tcctCount: 	
+Kmer: aacgCount: 
+
 Kmer: gatcCount: 	
-Kmer: tgacCount: 	
-Kmer: tacgCount: 	
-Kmer: acagCount: 	
-Kmer: gatgCount: 	
-Kmer: tccaCount: 	
-Kmer: tcgtCount: 	
 Kmer: cagaCount: 	
-Kmer: actcCount: 
-Kmer: ttgcCount: 
-Kmer: ggttCount: 
-Kmer: ggatCount: 
-Kmer: gtgtCount: 
-Kmer: gcaaCount: 
-Kmer: acgaCount: 
+Kmer: tacgCount: 	
+Kmer: gatgCount: 	
+Kmer: tgacCount: 	
+Kmer: tcctCount: 	
+Kmer: tcgtCount: 	
+Kmer: acagCount: 	
+Kmer: tccaCount: 	
 Kmer: gtacCount: 
-Kmer: tgagCount: 
-Kmer: catgCount: 
-Kmer: ctctCount: 
 Kmer: ctacCount: 
+Kmer: actcCount: 
+Kmer: ggatCount: 
+Kmer: gcaaCount: 
+Kmer: ctctCount: 
+Kmer: gtgtCount: 
+Kmer: ggttCount: 
+Kmer: tgagCount: 
+Kmer: acgaCount: 
+Kmer: ttgcCount: 
+Kmer: catgCount: 
 Kmer: tgcaCount: 
-Kmer: gaagCount: 
-Kmer: tctcCount: 
-Kmer: aggtCount: 
-Kmer: cactCount: 
-Kmer: cctaCount: 
-Kmer: ctcaCount: 
-Kmer: tcgaCount: 
-Kmer: actgCount: 
-Kmer: tcagCount: 
 Kmer: atcgCount: 
-Kmer: ggacCount: 
-Kmer: ggaaCount: 
-Kmer: atgcCount: 
-Kmer: tggtCount: 
 Kmer: caagCount: 
+Kmer: ggacCount: 
+Kmer: ctcaCount: 
+Kmer: actgCount: 
+Kmer: tggtCount: 
+Kmer: gaagCount: 
+Kmer: aggtCount: 
+Kmer: ggaaCount: 
+Kmer: tcgaCount: 
+Kmer: cactCount: 
+Kmer: atgcCount: 
 Kmer: cgatCount: 
-Kmer: acctCount: 
-Kmer: ttcgCount: 
-Kmer: aagcCount: 
+Kmer: tcagCount: 
+Kmer: cctaCount: 
+Kmer: tctcCount: 
 Kmer: tgtgCount: 
+Kmer: acctCount: 
 Kmer: tgtcCount: 
-Kmer: cacaCount: 
-Kmer: cgtaCount: 
-Kmer: ttggCount: 
+Kmer: agtcCount: 
 Kmer: cgttCount: 
 Kmer: aaccCount: 
+Kmer: ttcgCount: 
+Kmer: ttggCount: 
 Kmer: gcatCount: 
-Kmer: agtcCount: 
-Kmer: gtgcCount: 
-Kmer: ggtgCount: 
-Kmer: agacCount: 
-Kmer: agggCount: 
-Kmer: ccaaCount: 
-Kmer: ggcaCount: 
-Kmer: ctgaCount: 
-Kmer: acgtCount: 
+Kmer: cgtaCount: 
+Kmer: cacaCount: 
+Kmer: aagcCount: 
 Kmer: cttcCount: 
-Kmer: ccgtCount: 
-Kmer: gacgCount: 
+Kmer: ctgaCount: 
 Kmer: tgctCount: 
-Kmer: gcacCount: 
+Kmer: agacCount: 
+Kmer: ggtgCount: 
 Kmer: caacCount: 
+Kmer: gtgcCount: 
+Kmer: agggCount: 
+Kmer: ggcaCount: 
 Kmer: gtagCount: 
+Kmer: gcacCount: 
+Kmer: gacgCount: 
 Kmer: tctgCount: 
-Kmer: taggCount: 
-Kmer: gagaCount: 
-Kmer: gtcgCount: 
-Kmer: gtggCount: 
-Kmer: cctgCount: 
-Kmer: ggtaCount: 
-Kmer: acgcCount: 
-Kmer: tgggCount: 
-Kmer: cttgCount: 
-Kmer: cagtCount: 
-Kmer: ctggCount: 
-Kmer: gtctCount: 
-Kmer: cagcCount: 
-Kmer: gagtCount: 
+Kmer: ccaaCount: 
+Kmer: acgtCount: 
+Kmer: ccgtCount: 
 Kmer: gctaCount: 
-Kmer: taccCount: 
-Kmer: agcgCount: 
+Kmer: gtcgCount: 
+Kmer: cttgCount: 
+Kmer: ggtaCount: 
+Kmer: gagtCount: 
 Kmer: ccgaCount: 
-Kmer: gccaCount: 
-Kmer: gcctCount: 
-Kmer: tggaCount: 
+Kmer: cagcCount: 
 Kmer: tagcCount: 
-Kmer: agagCount: 
+Kmer: taggCount: 
+Kmer: tggaCount: 
+Kmer: acgcCount: 
+Kmer: ctggCount: 
+Kmer: tgggCount: 
+Kmer: cagtCount: 
+Kmer: gtctCount: 
 Kmer: gacaCount: 
-Kmer: atggCount: 
-Kmer: cgagCount: 
-Kmer: ccctCount: 
-Kmer: ggtcCount: 
-Kmer: gcttCount: 
-Kmer: cggaCount: 
-Kmer: ccggCount: 
-Kmer: gtccCount: 
-Kmer: tcccCount: 
-Kmer: cgcgCount: 
+Kmer: gcctCount: 
+Kmer: gtggCount: 
+Kmer: taccCount: 
+Kmer: cctgCount: 
+Kmer: agcgCount: 
+Kmer: gagaCount: 
+Kmer: gccaCount: 
+Kmer: agagCount: 
 Kmer: cgtgCount: 
-Kmer: cggtCount: 
-Kmer: gggaCount: 
-Kmer: tggcCount: 
-Kmer: cccaCount: 
-Kmer: tgcgCount: 
-Kmer: gctgCount: 
 Kmer: agccCount: 
-Kmer: gaggCount: 
-Kmer: gcgtCount: 
-Kmer: ctcgCount: 
-Kmer: gcagCount: 
+Kmer: ccggCount: 
 Kmer: gtcaCount: 
+Kmer: cccaCount: 
 Kmer: tcacCount: 
+Kmer: cggaCount: 
+Kmer: ggtcCount: 
+Kmer: cgcgCount: 
+Kmer: cggtCount: 
+Kmer: tggcCount: 
+Kmer: gctgCount: 
+Kmer: gcttCount: 
+Kmer: tgcgCount: 
+Kmer: ctcgCount: 
+Kmer: cgagCount: 
+Kmer: tcccCount: 
+Kmer: ccctCount: 
+Kmer: gtccCount: 
+Kmer: gcgtCount: 
+Kmer: gaggCount: 
 Kmer: cgtcCount: 
-Kmer: gggcCount: 
-Kmer: tgccCount: 
-Kmer: cgggCount: 
-Kmer: ccacCount: 
-Kmer: ggctCount: 
-Kmer: cgacCount: 
-Kmer: cacgCount: 
-Kmer: gagcCount: 
-Kmer: ctccCount: 
+Kmer: atggCount: 
+Kmer: gggaCount: 
+Kmer: gcagCount: 
 Kmer: accaCount: 
-Kmer: caggCount: 
+Kmer: cacgCount: 
+Kmer: ctccCount: 
 Kmer: ttccCount: 
+Kmer: ccacCount: 
+Kmer: gggcCount: 
 Kmer: cctcCount: 
 Kmer: caccCount: 
-Kmer: gcccCount: 
-Kmer: ggcgCount: 
-Kmer: gccgCount: 
-Kmer: ggagCount: 
-Kmer: aaggCount: 
-Kmer: cggcCount: 
-Kmer: gggtCount: 
+Kmer: cgacCount: 
+Kmer: gagcCount: 
+Kmer: ggctCount: 
+Kmer: cgggCount: 
+Kmer: tgccCount: 
+Kmer: caggCount: 
 Kmer: accgCount: 
-Kmer: ggggCount: 
-Kmer: ctgcCount: 
-Kmer: tccgCount: 
-Kmer: ccgcCount: 
-Kmer: ccagCount: 
-Kmer: cccgCount: 
-Kmer: gcggCount: 
-Kmer: ggccCount: 
-Kmer: cgccCount: 
-Kmer: ccatCount: 
-Kmer: gctcCount: 
 Kmer: cgctCount: 
-Kmer: acggCount: 
+Kmer: ggagCount: 
 Kmer: tcgcCount: 
+Kmer: ggccCount: 
+Kmer: gccgCount: 
+Kmer: tccgCount: 
+Kmer: cggcCount: 
+Kmer: acggCount: 
+Kmer: gctcCount: 
+Kmer: ccgcCount: 
+Kmer: ggcgCount: 
+Kmer: ccatCount: 
+Kmer: cccgCount: 
+Kmer: gggtCount: 
+Kmer: aaggCount: 
+Kmer: gcccCount: 
+Kmer: gcggCount: 
+Kmer: ccagCount: 
+Kmer: ctgcCount: 
+Kmer: cgccCount: 
+Kmer: ggggCount: 
